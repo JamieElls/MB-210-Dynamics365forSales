@@ -4,6 +4,7 @@ lab:
     module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
 ---
 
+Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
 Module 2: Manage leads and opportunities with Dynamics 365 Sales
 ==================================

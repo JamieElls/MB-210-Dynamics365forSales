@@ -4,6 +4,7 @@ lab:
     module: 'Module 1: Configure Dynamics 365 Sales'
 ---
 
+Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
 Module 1: Configure Dynamics 365 Sales
 ========================

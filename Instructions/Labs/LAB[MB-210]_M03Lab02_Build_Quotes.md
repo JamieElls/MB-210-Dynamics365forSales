@@ -4,6 +4,7 @@ lab:
     module: 'Module 3: Manage orders and product catalog with Dynamics 365'
 ---
 
+Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
 Module 3: Manage orders and product catalog with Dynamics 365
 ==============================
