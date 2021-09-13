@@ -1,4 +1,4 @@
-###T4D MoC+###
+#T4D MoC+#
 
 This is a _Training 4 Dynamics 365 Ltd_. extended MoC lab
 
