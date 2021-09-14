@@ -1,6 +1,6 @@
 # T4D MoC+
 
-This is a _*Training 4 Dynamics 365 Ltd*_. extended MoC lab.
+This is a _**Training 4 Dynamics 365 Ltd**_. extended MoC lab.
 
 __Note:__ Please consider that lab steps are valid at the date of publication. 
 * Updates to software used in this guide may invalidate lab steps. 
