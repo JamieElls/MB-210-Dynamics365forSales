@@ -6,3 +6,11 @@ __Note:__ Please consider that lab steps are valid at the date of publication.
 * Updates to software used in this guide may invalidate lab steps. 
 * Please ask you instructor if you require help!
 
+
+# hello Git
+
+Marge and Phil join GitHub
+
+## here uis another heading 
+
+blah 
