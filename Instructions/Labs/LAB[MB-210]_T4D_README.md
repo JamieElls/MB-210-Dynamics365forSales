@@ -13,4 +13,4 @@ This is a mountain landscape:
 
 _**mountain-lanidscape.jpg**_
 
-![Mountain Landscape](Allfiles/Resources/T4D_README/mountain-landscape.jpg)
+![Mountain Landscape](https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing/Allfiles/Resources/T4D_README/mountain-landscape.jpg?raw=true)
