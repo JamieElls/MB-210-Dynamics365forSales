@@ -13,4 +13,4 @@ This is a mountain landscape:
 
 _**mountain-lanidscape.jpg**_
 
-![Mountain Landscape](https://trainingformicrosoftcrm.sharepoint.com/sites/T4D365MoCResources/SiteAssets/mountain-landscape.jpg)
+![Mountain Landscape](Allfiles/Resources/T4D_README/mountain-landscape.jpg)
