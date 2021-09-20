@@ -11,6 +11,6 @@ __Note:__ Please consider that lab steps are valid at the date of publication.
 
 This is a mountain landscape:
 
-_**mountain-lanidscape.jpg**_
-
 ![Mountain Landscape](https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/mountain-landscape.jpg?raw=true)
+
+https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/_**mountain-lanidscape.jpg**_
