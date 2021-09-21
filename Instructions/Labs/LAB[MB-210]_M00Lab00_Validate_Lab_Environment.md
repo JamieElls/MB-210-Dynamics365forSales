@@ -44,8 +44,8 @@ Exercise 1 - Access the Dynamics 365 application
 
 ### Task 2 – Access the Dynamics 365 application
 
-1.  Expand the grid button at the top left of the screen, directly to the left of **Power Platform admin center.** Select **All Apps**
+1. In a new Incognito/In-Private browser window, navigate to the URL provided by the lab host.
 
-2. From the list of available Dynamics 365 apps, select **Sales Hub.**
+1. Log in using the credentials provided. you should also note down your credentials in a .txt file or on paper for later use.
 
-3. Spend a few minutes exploring the application.
+1. Open the **Sales** application and take some time to explore.
