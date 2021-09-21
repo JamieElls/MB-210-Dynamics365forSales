@@ -7,10 +7,9 @@ __Note:__ Please consider that lab steps are valid at the date of publication.
 * Please ask you instructor if you require help!
 
 
-# Image Test
+# Image Example
 
-This is a mountain landscape:
+This is an image of the woods: 
 
-![Mountain Landscape](https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/mountain-landscape.jpg?raw=true)
 
-[https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/mountain-lanidscape.jpg](https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/mountain-landscape.jpg?raw=true)
+
