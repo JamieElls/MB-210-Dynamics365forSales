@@ -11,5 +11,5 @@ __Note:__ Please consider that lab steps are valid at the date of publication.
 
 This is an image of the woods: 
 
-
+![Image of the Woods](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/woods.jpg)
 
