@@ -13,3 +13,6 @@ This is an image of the woods:
 
 ![Image of the Woods](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/woods.jpg)
 
+### This is a mountain
+
+![Image of mountains](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/mountain-landscape.jpg)
