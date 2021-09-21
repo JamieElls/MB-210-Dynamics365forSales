@@ -36,11 +36,11 @@ Exercise 1 - Access the Dynamics 365 application
 
 1. ~~Access <https://admin.Powerplatform.microsoft.com> and log in with your user credentials.~~
 
-2. Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.
+1. ~~Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.~~
 
-**Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.
+~~**Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.~~
 
-3. Feel free to explore the Power Platform admin center but **do not make any changes.**
+1. ~~Feel free to explore the Power Platform admin center but **do not make any changes.**~~
 
 ### Task 2 – Access the Dynamics 365 for Sales application
 
