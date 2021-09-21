@@ -20,8 +20,6 @@ and product details. As a functional consultant on the Dynamics 365 for Sales
 implementation, you have been asked to configure the product catalog. In this
 lab, you will create a unit group, a price list, a discount list, and products.
 
-**Important Note:** This lab will provide you with an actual Dynamics 365 tenant and licenses for the Power Platform applications you will be using in this course. You will only be provided with one tenant for the practice labs in this course. The settings and actions you take within this tenant do not roll-back or reset, whereas the virtual machine you are provided with does reset each time you close the lab session. Please be aware that Dynamics 365 is evolving all the time. The instructions in this document may be different from what you experience in your actual Dynamics 365 tenant. It is also possible to experience a delay of several minutes before the virtual machine has network connectivity to begin the labs.
-
 Exercise 1 – Product Catalog
 ----------------------------
 
@@ -29,34 +27,29 @@ Exercise 1 – Product Catalog
 
 In this task, you will create unit groups for the speakers.
 
-1.  Go to your **Dynamics 365 Sales Hub** application.
+1. Go to your **Dynamics 365 Sales Hub** application.
 
-2.  Click on **Sales** in the bottom of the left menu.
+1. Click on **Sales** in the bottom of the left menu.
 
-3.  Select **App Settings**.
+1. Select **App Settings**.
 
-4.  From the **Product Catalog** group, select **Unit Groups.**
+1. From the **Product Catalog** group, select **Unit Groups.**
 
-5.  Click **+ New**.
+1. Click **+ New**.
 
-6.  Enter **[my prefix] Speakers** for **Name**, enter **Each** for **Primary Unit**, and
-    click **OK**.
+1. Enter **[my prefix] Speakers** for **Name**, enter **Each** for **Primary Unit**, and click **OK**.
 
-7.  Click **Related** and select **Units**.
+1. Click **Related** and select **Units**.
 
-8.  You will find that you only have the default unit **Each** now; you will add
-    three more units. Click **+ New Unit**.
+1. You will find that you only have the default unit **Each** now; you will add three more units. Click **+ New Unit**.
 
-9.  Enter **Speaker** for **Name**, **1** for **Quantity**, select **Each** for
-    **Base Unit**, and click **Save & Create New** by selecting the carrot to the right of the **Save and Close** button.
+1. Enter **Speaker** for **Name**, **1** for **Quantity**, select **Each** for **Base Unit**, and click **Save & Create New** by selecting the carrot to the right of the **Save and Close** button.
 
-10. Enter **Pair** for **Name**, **2** for **Quantity**, select **Speaker** for
-    **Base Unit** and click **Save & Create New**.
+1. Enter **Pair** for **Name**, **2** for **Quantity**, select **Speaker** for **Base Unit** and click **Save & Create New**.
 
-11. Enter **Set** for **Name**, **2** for **Quantity**, select **Pair** for
-    **Base Unit** and click **Save and Close**.
+1. Enter **Set** for **Name**, **2** for **Quantity**, select **Pair** for **Base Unit** and click **Save and Close**.
 
-12. You will now have four unit groups in the list.
+1. You will now have four unit groups in the list.
 
 ### Task 2 – Create Discount List
 
