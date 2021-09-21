@@ -42,7 +42,7 @@ Exercise 1 - Access the Dynamics 365 application
 
 3. Feel free to explore the Power Platform admin center but **do not make any changes.**
 
-### Task 2 – Access the Dynamics 365 application
+### Task 2 – Access the Dynamics 365 for Sales application
 
 1. In a new Incognito/In-Private browser window, navigate to the URL provided by the lab host.
 
