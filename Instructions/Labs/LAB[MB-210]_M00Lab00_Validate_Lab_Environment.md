@@ -52,4 +52,6 @@ Exercise 1 - Access the Dynamics 365 application
 
 1. Open the **Sales** application and take some time to explore.
 
+    ![Sales Hub]()
+
 1. In a new tab, navigate to [www.admin.powerplatform.com](https://admin.powerplatform.microsoft.com/environments) and take some time to explore.
