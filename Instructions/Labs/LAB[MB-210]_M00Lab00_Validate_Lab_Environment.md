@@ -31,21 +31,25 @@ minutes before the virtual machine has network connectivity to begin the labs.
 
 Exercise 1 - Access the Dynamics 365 application
 ---------------------------------------------------
+<!-- Removed
 
-### ~~Task 1 – Log into the Power Platform admin center~~
+### Task 1 – Log into the Power Platform admin center
 
-1. ~~Access <https://admin.Powerplatform.microsoft.com> and log in with your user credentials.~~
+1. Access <https://admin.Powerplatform.microsoft.com> and log in with your user credentials.
 
-1. ~~Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.~~
+1. Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.
 
-~~**Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.~~
+**Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.
 
-1. ~~Feel free to explore the Power Platform admin center but **do not make any changes.**~~
+1. Feel free to explore the Power Platform admin center but **do not make any changes.**
+-->
 
-### Task 2 – Access the Dynamics 365 for Sales application
+### Task 1 – Access the Dynamics 365 for Sales application
 
 1. In a new Incognito/In-Private browser window, navigate to the URL provided by the lab host.
 
 1. Log in using the credentials provided. you should also note down your credentials in a .txt file or on paper for later use.
 
 1. Open the **Sales** application and take some time to explore.
+
+1. In a new tab, navigate to [www.admin.powerplatform.com](https://admin.powerplatform.microsoft.com/environments) and take some time to explore.
