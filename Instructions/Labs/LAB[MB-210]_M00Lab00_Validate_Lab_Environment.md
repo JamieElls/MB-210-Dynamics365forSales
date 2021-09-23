@@ -1,5 +1,5 @@
 ---
-Lab
+Lab:
     Title: 'Lab 1.1: Validate lab environment'
     Module: 'Module 1: Configure Dynamics 365 Sales'
 ---
