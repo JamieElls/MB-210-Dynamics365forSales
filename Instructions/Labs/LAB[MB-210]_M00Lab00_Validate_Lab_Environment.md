@@ -53,4 +53,12 @@ Exercise 1 - Access the Dynamics 365 application
 
     ![Sales Hub](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M00Lab00_Validate_Lab_Environment/SalesHubAppLink.PNG)
 
+    1. Verify the presence of sample data on the system (Contacts, Accounts, Leads etc.).
+
 1. In a new tab, navigate to [www.admin.powerplatform.com](https://admin.powerplatform.microsoft.com/environments) and take some time to explore.
+
+1. You may want to run (or re-run) the sample data installer
+    1. Open the production environemnt 
+    1. Navigate to setting
+    1. Under **Data management**, click **Sample data** 
+    1. Click **Install Sample Data** (or to reinstall click **Remove Sample Data** first)
