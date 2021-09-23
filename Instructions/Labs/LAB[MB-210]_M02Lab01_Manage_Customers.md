@@ -1,7 +1,7 @@
 ---
-lab:
-    title: 'Lab 2.1: Manage Customers'
-    module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
+Lab:
+    Title: 'Lab 2.1: Manage Leads'
+    Module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
 ---
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
@@ -9,7 +9,7 @@ Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 Module 2: Manage leads and opportunities with Dynamics 365 Sales
 ==================================
 
-## Lab 2.1 – Manage customers
+## Lab 2.1 – Manage Leads
 
 Scenario
 --------

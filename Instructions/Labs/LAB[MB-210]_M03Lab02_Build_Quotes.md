@@ -1,7 +1,7 @@
 ---
-lab:
-    title: 'Lab 3.2: Build quotes'
-    module: 'Module 3: Manage orders and product catalog with Dynamics 365'
+Lab:
+    Title: 'Lab 3.2: Build quotes'
+    Module: 'Module 3: Manage orders and product catalog with Dynamics 365'
 ---
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
@@ -78,7 +78,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 
 1. Open the generated document and see what the Quote looks like.
 
-10. Close the PDF.
+1. Close the PDF.
 
-11. Close the **Export to PDF** window.
+1. Close the **Export to PDF** window.
 
