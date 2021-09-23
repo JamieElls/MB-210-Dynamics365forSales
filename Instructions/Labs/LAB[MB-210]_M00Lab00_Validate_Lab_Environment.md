@@ -53,7 +53,9 @@ Exercise 1 - Access the Dynamics 365 application
 
     ![Sales Hub](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M00Lab00_Validate_Lab_Environment/SalesHubAppLink.PNG)
 
-    1. Verify the presence of sample data on the system (Contacts, Accounts, Leads etc.).
+1. Verify the presence of sample data on the system (Contacts, Accounts, Leads etc.).
+
+### Task 2 – Access the Power Platform Admin Center
 
 1. In a new tab, navigate to [www.admin.powerplatform.com](https://admin.powerplatform.microsoft.com/environments) and take some time to explore.
 
