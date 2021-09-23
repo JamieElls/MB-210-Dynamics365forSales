@@ -1,5 +1,5 @@
 ---
-Lab:
+Lab
     Title: 'Lab 1.1: Validate lab environment'
     Module: 'Module 1: Configure Dynamics 365 Sales'
 ---
@@ -61,7 +61,9 @@ Exercise 1 - Access the Dynamics 365 application
 
 1. You may want to run (or re-run) the sample data installer
 
-    1. Open the **Production** environemnt (will be named *WWLLAB###*). 
+    __Note:__ If you are using a shared tenancy, this should be performed by one person only.
+
+    1. Open the **Production** environment (will be named *WWLLAB###*). 
    
     1. Navigate to **Setting**.
    
