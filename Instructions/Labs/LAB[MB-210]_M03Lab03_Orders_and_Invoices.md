@@ -1,26 +1,17 @@
----
-Lab:
-    Title: 'Lab 3.3: Orders and invoices'
-    Module: 'Module 3: Manage orders and product catalog with Dynamics 365'
----
+## Module 3: Manage orders and product catalog with Dynamics 365
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
-Module 3: Manage orders and product catalog with Dynamics 365
-==============================
-
 ## Practice Lab 3.3 – Orders and invoices
 
-Scenario
---------
+### Scenario
 
 As a sales analyst for the Dynamics 365 for Sales implementation at World Wide
 Importers, you need to test the newly configured product catalog enhancements to
 the order and invoice processes. In this lab, you will create an order from a
 quote and create an invoice from that order.
 
-Exercise 1 – Orders and Invoices
---------------------------------
+## Exercise 1 – Orders and Invoices
 
 ### Task 1 – Create Order
 

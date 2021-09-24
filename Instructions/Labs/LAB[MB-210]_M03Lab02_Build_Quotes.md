@@ -1,26 +1,17 @@
----
-Lab:
-    Title: 'Lab 3.2: Build quotes'
-    Module: 'Module 3: Manage orders and product catalog with Dynamics 365'
----
+## Module 3: Manage orders and product catalog with Dynamics 365
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
-Module 3: Manage orders and product catalog with Dynamics 365
-==============================
-
 ## Practice Lab 3.2 – Build quotes
 
-Scenario
---------
+### Scenario
 
 As a sales analyst for the Dynamics 365 Sales implementation at World Wide
 Importers, you need to test the newly configured product catalog enhancements to
 the quoting process. In this lab, you will add product line items to an
 opportunity and create a quote from that opportunity.
 
-Exercise 1 – Create a Quote
--------------------------
+## Exercise 1 – Create a Quote
 
 ### Task 1 – Add Products Line Items
 
@@ -81,4 +72,3 @@ In this task, you will create a Quote from the Opportunity you created in Task
 1. Close the PDF.
 
 1. Close the **Export to PDF** window.
-

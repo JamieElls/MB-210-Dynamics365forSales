@@ -1,18 +1,10 @@
----
-Lab:
-    Title: 'Lab 3.1: Manage product catalog'
-    Module: 'Module 3: Manage orders and product catalog with Dynamics 365'
----
+## Module 3: Manage orders and product catalog with Dynamics 365
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
-Module 3: Manage orders and product catalog with Dynamics 365
-==============================
-
 ## Practice Lab 3.1 – Manage product catalog
 
-Scenario
---------
+### Scenario
 
 World Wide Importers (WWI) is looking to standardize their pricing structure and
 allow for easier creation of quotes, orders, and invoices with accurate pricing
@@ -20,8 +12,7 @@ and product details. As a functional consultant on the Dynamics 365 for Sales
 implementation, you have been asked to configure the product catalog. In this
 lab, you will create a unit group, a price list, a discount list, and products.
 
-Exercise 1 – Product Catalog
-----------------------------
+## Exercise 1 – Product Catalog
 
 ### Task 1 – Create Unit Group
 
