@@ -1,7 +1,6 @@
 ## Module 1: Configure Dynamics 365 Sales
 
-**Note:** This is a **_Training 4 Dynamics 365 Ltd._** branch of the original MoC. For general guidance on the use of these labs please refer to the [readme file](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Instructions/Labs/LAB%5BMB-210%5D_T4D_README.md).
-
+**Note:** This is a **_Training 4 Dynamics 365 Ltd._** branch of the original MoC. For general guidance on the use of these labs please refer to the [README file](https://github.com/JamieElls/MB-210-Dynamics365forSales/blob/jamie-testing-b2/Instructions/Labs/LAB%5BMB-210%5D_T4D_README.md).
 
 ## Practice Lab 1.1 - Validate lab environment 
 
