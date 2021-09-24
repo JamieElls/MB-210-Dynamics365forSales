@@ -2,11 +2,11 @@
 
 This is a _**Training 4 Dynamics 365 Ltd**_. extended MoC lab.
 
-__Note:__ Please consider that lab steps are valid at the date of publication. 
+**Note:** Please consider that lab steps are valid at the date of publication. 
 * Updates to services and applications used in this guide may invalidate lab steps. 
 * Please ask you instructor if you require help!
 
-__Note:__ Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
+**Note:** Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
 
 # Image Example
 
