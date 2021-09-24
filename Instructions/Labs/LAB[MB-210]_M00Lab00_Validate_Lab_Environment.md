@@ -6,13 +6,11 @@ Lab:
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
-Module 1: Configure Dynamics 365 Sales
-========================
+## Module 1: Configure Dynamics 365 Sales
 
 ## Practice Lab 1.1 - Validate lab environment 
 
-Scenario
---------
+### Scenario
 
 World Wide Importers (WWI) is looking to formalize their sales process to
 increase revenue and give leadership, the stronger forecasting abilities. You are
@@ -40,8 +38,7 @@ minutes before the virtual machine has network connectivity to begin the labs.
 
 1. Feel free to explore the Power Platform admin center but **do not make any changes.**
 -->
-Exercise 1 - Access the Dynamics 365 application
----------------------------------------------------
+## Exercise 1 - Access the Dynamics 365 application
 
 ### Task 1 – Access the Dynamics 365 for Sales application
 
