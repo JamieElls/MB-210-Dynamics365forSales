@@ -49,7 +49,7 @@ Exercise 1 - Access the Dynamics 365 application
 
 1. Log in using the credentials provided. you should also note down your credentials in a .txt file or on paper for later use.
 
-1. Open the **Sales** application and take some time to explore.
+1. Open the **Sales Hub** application and take some time to explore.
 
     ![Sales Hub](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M00Lab00_Validate_Lab_Environment/SalesHubAppLink.PNG)
 
