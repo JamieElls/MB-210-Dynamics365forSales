@@ -1,18 +1,10 @@
----
-Lab:
-    Title: 'Lab 2.1: Manage Leads'
-    Module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
----
+## Module 2: Manage leads and opportunities with Dynamics 365 Sales
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
 
-Module 2: Manage leads and opportunities with Dynamics 365 Sales
-==================================
-
 ## Lab 2.1 – Manage Leads
 
-Scenario
---------
+### Scenario
 
 World Wide Importers (WWI) is looking to formalize their sales process and
 address the backlog of untouched leads imported by the marketing team from trade
@@ -22,8 +14,7 @@ lead records so the executive team can work from an accurate pipeline report in
 the upcoming leadership meeting. In this lab, you will update lead records and
 qualify, disqualify and reactivate lead records.
 
-Exercise 1 – Manage Leads
------------------------------
+## Exercise 1 – Manage Leads
 
 ### Task 1 – Creating Leads
 
@@ -51,8 +42,7 @@ two with company information.
 1.  Enter **[my prefix] Another Lead** for **Title**, **Jack** for **First Name**, **Smith** for
     **Last Name,** **Test Inc**. for **Company**, and click **Save**.
 
-Exercise 2 – Lead Qualifications
---------------------------------
+## Exercise 2 – Lead Qualifications
 
 In this exercise, you will qualify/disqualify leads and see what records will be
 created when a lead goes through the qualification process.
