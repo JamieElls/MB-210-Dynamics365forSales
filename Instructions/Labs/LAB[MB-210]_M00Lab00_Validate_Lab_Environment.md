@@ -1,6 +1,6 @@
 ## Module 1: Configure Dynamics 365 Sales
 
-**Note:** This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
+**Note:** This is a **_Training 4 Dynamics 365 Ltd._** branch of the original MoC.
 
 ## Practice Lab 1.1 - Validate lab environment 
 

@@ -1,6 +1,6 @@
 ## Module 2: Manage leads and opportunities with Dynamics 365 Sales
 
-**Note:** This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
+**Note:** This is a **_Training 4 Dynamics 365 Ltd._** branch of the original MoC.
 
 ## Lab 2.1 – Manage Leads
 
