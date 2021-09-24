@@ -1,12 +1,6 @@
----
-Lab:
-    Title: 'Lab 1.1: Validate lab environment'
-    Module: 'Module 1: Configure Dynamics 365 Sales'
----
+## Module 1: Configure Dynamics 365 Sales
 
 Note: This is a Training 4 Dynamics 365 Ltd. branch of the original MoC.
-
-## Module 1: Configure Dynamics 365 Sales
 
 ## Practice Lab 1.1 - Validate lab environment 
 
