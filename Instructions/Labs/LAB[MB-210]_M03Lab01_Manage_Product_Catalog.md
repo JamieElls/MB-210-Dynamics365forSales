@@ -88,11 +88,15 @@ In this task, you will create a Discount List for people that buy 3 or 4 speaker
 
 1. Click **+ New Discount**.
 
-1. Make sure **[my prefix] Quantity Discount** is selected for **Discount Type**, enter **2** for **Begin Quantity**, **3** for **End Quantity**, **15** for **Percentage** and click **Save**.
+1. Make sure **[my prefix] Quantity Discount** is selected for **Discount Type**, enter **2** for **Begin Quantity**, **3** for **End Quantity**, **15** for **Percentage** and click **Save & Close**.
 
-1. Click **+ New** again.
+1. Click **+ New Discount** again.
 
-1. Select **[my prefix] Quantity Discount** for **Discount Type** by starting to enter in your prefix. Then enter **4** for **Begin Quantity**, **50** for **End Quantity**, enter **25** for **Percentage**, and click **Save**.
+1. Again, verify that **[my prefix] Quantity Discount** is selected for **Discount Type**. Then enter **4** for **Begin Quantity**, **50** for **End Quantity**, enter **25** for **Percentage**, and click **Save & Close**.
+
+1. You should now have two **Discounts** in your **Discount List**.
+
+
 
 ### Task 3 – Create Price List
 
