@@ -40,6 +40,12 @@ In this task, you will create unit groups for the speakers.
         >
 
 1. From the **Product Catalog** group, select **Unit Groups.**
+    <br><br>
+        <img 
+            hspace="40px" 
+            height="150" 
+            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSettingsUnitGroups.PNG"
+        >
 
 1. Click **+ New**.
 
