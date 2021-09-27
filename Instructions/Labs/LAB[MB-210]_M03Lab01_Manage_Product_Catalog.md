@@ -172,9 +172,13 @@ In this task, you will create products.
 
 1. Click **+ New Price List Item** button. (You may have to click the vertical ellipsis on the top right of the **Price List Items** section.)
 
-1. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for **Quantity Selling Option**, and select the **Pricing Information** tab.
+1. Select **[my prefix] Top D. Electronic** for **Price List**, 
 
-1. Enter **120** for Amount and click **Save and Close**.
+    1. select **Whole** for **Quantity Selling Option**, 
+
+    1. and select the **Pricing Information** tab.
+
+    1. Enter **120** for Amount and click **Save and Close**.
 
 1. Click **Publish**.
 
@@ -204,7 +208,7 @@ In this task, you will create products.
     
     1. and select the **Pricing Information** tab.
 
-1. Enter **2500** for Amount and click **Save and Close**.
+    1. Enter **2500** for Amount and click **Save and Close**.
 
 1. Click **Publish** to publish the product.
 
