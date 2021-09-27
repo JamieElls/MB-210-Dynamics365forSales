@@ -24,18 +24,20 @@ In this task, you will create unit groups for the speakers.
 1. Go to your **Dynamics 365 Sales Hub** application.
 
 1. Click on **Sales** in the bottom of the left menu.
-    <br>
+    <br><br>
         <img 
             hspace="40px" 
             height="150" 
-            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSwitch.PNG">
+            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSwitch.PNG"
+        >
 
 1. Select **App Settings**.
-    <br>
+    <br><br>
         <img 
             hspace="40px" 
             height="150" 
-            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapAppSettings.PNG">
+            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapAppSettings.PNG"
+        >
 
 1. From the **Product Catalog** group, select **Unit Groups.**
 
