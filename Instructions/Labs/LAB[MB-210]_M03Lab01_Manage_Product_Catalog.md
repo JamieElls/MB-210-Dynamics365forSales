@@ -95,8 +95,13 @@ In this task, you will create a Discount List for people that buy 3 or 4 speaker
 1. Again, verify that **[my prefix] Quantity Discount** is selected for **Discount Type**. Then enter **4** for **Begin Quantity**, **50** for **End Quantity**, enter **25** for **Percentage**, and click **Save & Close**.
 
 1. You should now have two **Discounts** in your **Discount List**.
-
-
+    <br><br>
+        <img
+            alt="Discounts" 
+            hspace="40px" 
+            height="150" 
+            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/DiscountListDiscounts.PNG"
+        >
 
 ### Task 3 – Create Price List
 
