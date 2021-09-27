@@ -125,15 +125,30 @@ In this task, you will create products.
 
 1. Click **Add Product.**
 
-1. Enter **[my prefix] Top D. HiFi** for **Name**, enter **[myprefix]1234** for **Product ID**, select **[my prefix] Speakers** for **Unit Group** (you can easily find it by typing in your prefix), select **Speaker** for **Default Unit**, enter **2** for **Decimals Supported**, and click **Save**.
+1. Enter **[my prefix] Top D. HiFi** for **Name**, 
+    1. enter **[myprefix]1234** for **Product ID**, 
+    
+    1. select **[my prefix] Speakers** for **Unit Group** (you can easily find it by typing in your prefix), 
+    
+    1. select **Speaker** for **Default Unit**, 
+    
+    1. enter **2** for **Decimals Supported**, 
+    
+    1. and click **Save**.
 
 1. Select the **Additional Details** tab.
 
-1. Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
+1. In the **Price List Items** section, click **+ New Price List Item** button. (You may have to click the vertical ellipsis on the top right of section)
 
-1. Select **[my prefix] Top D. Electronic** for **Price List**, select **Quantity Discount** for **[my prefix] Discount List**, select **Whole** for **Quantity Selling Option**, and select the **Pricing Information** tab.
+1. Select **[my prefix] Top D. Electronic** for **Price List**, 
 
-1. Enter **150** for Amount and click **Save and Close**.
+    1. select **Quantity Discount** for **[my prefix] Discount List**, 
+    
+    1. select **Whole** for **Quantity Selling Option**, 
+     
+    1. and select the **Pricing Information** tab.
+
+    1. Enter **150** for Amount and click **Save and Close**.
 
 1. Click **Publish**.
 
@@ -143,11 +158,19 @@ In this task, you will create products.
 
 1. Click **Add Product**.
 
-1. Enter **[my prefix] DX Power Supply** for **Name**, enter **[myprefix]4321** for **Product ID**, select **Default Unit** for **Unit Group**, select **Primary Unit** for **Default Unit**, enter **2** for **Decimals Supported**, and click **Save**.
+1. Enter **[my prefix] DX Power Supply** for **Name**, 
+
+    1. enter **[myprefix]4321** for **Product ID**, 
+    
+    1. select **Default Unit** for **Unit Group**, 
+
+    1. select **Primary Unit** for **Default Unit**, 
+
+    1. enter **2** for **Decimals Supported**, and click **Save**.
 
 1. Select the **Additional Details** tab.
 
-1. Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
+1. Click **+ New Price List Item** button. (You may have to click the vertical ellipsis on the top right of the **Price List Items** section.)
 
 1. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for **Quantity Selling Option**, and select the **Pricing Information** tab.
 
@@ -161,13 +184,25 @@ In this task, you will create products.
 
 1. Click **Add Product**.
 
-1. Enter **[my prefix] Top D. Comm System** for **Name**, enter **[myprefix]7894** for **Product ID**, select **Default Unit** for **Unit Group**, select **Primary Unit** for **Default Unit**, enter **2** for **Decimals Supported**, and click **Save**.
+1. Enter **[my prefix] Top D. Comm System** for **Name**, 
+
+    1. enter **[myprefix]7894** for **Product ID**, 
+
+    1. select **Default Unit** for **Unit Group**, 
+
+    1. select **Primary Unit** for **Default Unit**, 
+
+    1. enter **2** for **Decimals Supported**, and click **Save**.
 
 1. Select the **Additional Details** tab.
 
-1. Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
+1. Click **+ New Price List Item** button. (You may have to click the vertical ellipsis on the top right of the **Price List Items** section.)
 
-1. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for **Quantity Selling Option**, and select the **Pricing Information** tab.
+1. Select **[my prefix] Top D. Electronic** for **Price List**, 
+
+    1. select **Whole** for **Quantity Selling Option**,
+    
+    1. and select the **Pricing Information** tab.
 
 1. Enter **2500** for Amount and click **Save and Close**.
 
