@@ -12,6 +12,8 @@ and product details. As a functional consultant on the Dynamics 365 for Sales
 implementation, you have been asked to configure the product catalog. In this
 lab, you will create a unit group, a price list, a discount list, and products.
 
+**Note:** Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
+
 ## Exercise 1 – Product Catalog
 
 ### Task 1 – Create Unit Group

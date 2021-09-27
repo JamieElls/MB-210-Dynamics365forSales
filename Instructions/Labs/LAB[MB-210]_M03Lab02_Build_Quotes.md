@@ -11,6 +11,8 @@ Importers, you need to test the newly configured product catalog enhancements to
 the quoting process. In this lab, you will add product line items to an
 opportunity and create a quote from that opportunity.
 
+**Note:** Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
+
 ## Exercise 1 – Create a Quote
 
 ### Task 1 – Add Products Line Items

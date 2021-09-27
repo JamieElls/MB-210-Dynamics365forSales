@@ -11,6 +11,8 @@ Importers, you need to test the newly configured product catalog enhancements to
 the order and invoice processes. In this lab, you will create an order from a
 quote and create an invoice from that order.
 
+**Note:** Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
+
 ## Exercise 1 – Orders and Invoices
 
 ### Task 1 – Create Order

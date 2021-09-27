@@ -14,6 +14,8 @@ lead records so the executive team can work from an accurate pipeline report in
 the upcoming leadership meeting. In this lab, you will update lead records and
 qualify, disqualify and reactivate lead records.
 
+**Note:** Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
+
 ## Exercise 1 – Manage Leads
 
 ### Task 1 – Creating Leads
