@@ -6,11 +6,7 @@
 
 ### Scenario
 
-World Wide Importers (WWI) is looking to standardize their pricing structure and
-allow for easier creation of quotes, orders, and invoices with accurate pricing
-and product details. As a functional consultant on the Dynamics 365 for Sales
-implementation, you have been asked to configure the product catalog. In this
-lab, you will create a unit group, a price list, a discount list, and products.
+World Wide Importers (WWI) is looking to standardize their pricing structure and allow for easier creation of quotes, orders, and invoices with accurate pricing and product details. As a functional consultant on the Dynamics 365 for Sales implementation, you have been asked to configure the product catalog. In this lab, you will create a unit group, a price list, a discount list, and products.
 
 **Note:** Where the lab instructions refer to **[my prefix]**, you are expected to use you initials or some other unique identifier to help you distinguish your work. The brackets are not necessary. 
 
@@ -24,7 +20,11 @@ In this task, you will create unit groups for the speakers.
 
 1. Click on **Sales** in the bottom of the left menu.
 
+![Site Map](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSwitch.PNG)
+
 1. Select **App Settings**.
+
+![Site Map - App Settings](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapAppSettings.PNG)
 
 1. From the **Product Catalog** group, select **Unit Groups.**
 
@@ -46,9 +46,7 @@ In this task, you will create unit groups for the speakers.
 
 ### Task 2 – Create Discount List
 
-In this task, you will create a Discount List for people that buy 3 or 4
-speakers. The 3rd speaker will get 15% discount and 4 to 50 speakers will get a
-25% discount.
+In this task, you will create a Discount List for people that buy 3 or 4 speakers. The 3rd speaker will get 15% discount and 4 to 50 speakers will get a 25% discount.
 
 1. From the **Product Catalog** group, select **Discount Lists.**
 
