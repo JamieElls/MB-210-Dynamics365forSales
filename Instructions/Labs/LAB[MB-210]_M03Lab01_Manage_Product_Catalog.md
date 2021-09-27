@@ -99,7 +99,7 @@ In this task, you will create a Discount List for people that buy 3 or 4 speaker
         <img
             alt="Discounts" 
             hspace="40px" 
-            height="150" 
+            height="100" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/DiscountListDiscounts.PNG"
         >
 
