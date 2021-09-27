@@ -97,3 +97,9 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 1.  Click **Reactivate Lead**.
 
 1.  The Lead will be reactivated, the status will change to New, and the record will become editable.
+
+### Task 5 - Qualify Additional Leads
+
+1. Qualify the additional leads you created in **Exercise 1**. 
+
+1. Take note of the information carried onto the Opportunity records. 
