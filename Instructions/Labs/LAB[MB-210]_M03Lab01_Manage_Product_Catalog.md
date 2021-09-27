@@ -26,6 +26,7 @@ In this task, you will create unit groups for the speakers.
 1. Click on **Sales** in the bottom of the left menu.
     <br><br>
         <img 
+            alt="Site Map Switch"
             hspace="40px" 
             height="150" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSwitch.PNG"
@@ -34,6 +35,7 @@ In this task, you will create unit groups for the speakers.
 1. Select **App Settings**.
     <br><br>
         <img 
+            alt="Site Map - App Settings"
             hspace="40px" 
             height="150" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapAppSettings.PNG"
@@ -42,6 +44,7 @@ In this task, you will create unit groups for the speakers.
 1. From the **Product Catalog** group, select **Unit Groups.**
     <br><br>
         <img 
+            alt="Site map - Unit Groups"
             hspace="40px" 
             height="150" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSettingsUnitGroups.PNG"
@@ -62,6 +65,14 @@ In this task, you will create unit groups for the speakers.
 1. Enter **Set** for **Name**, **2** for **Quantity**, select **Pair** for **Base Unit** and click **Save and Close**.
 
 1. You will now have four unit groups in the list.
+    <br><br>
+        <img
+            alt="Created Unit Group Units" 
+            hspace="40px" 
+            height="150" 
+            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/UnitGroupUnits.PNG"
+        >
+
 
 ### Task 2 – Create Discount List
 
