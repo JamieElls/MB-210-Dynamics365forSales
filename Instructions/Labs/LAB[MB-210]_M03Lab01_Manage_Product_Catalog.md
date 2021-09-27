@@ -27,7 +27,6 @@ In this task, you will create unit groups for the speakers.
     <br>
         <img 
             hspace="40px" 
-            width="175" 
             height="150" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapSwitch.PNG">
 
@@ -35,7 +34,6 @@ In this task, you will create unit groups for the speakers.
     <br>
         <img 
             hspace="40px" 
-            width="190" 
             height="150" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing-b2/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/SiteMapAppSettings.PNG">
 
