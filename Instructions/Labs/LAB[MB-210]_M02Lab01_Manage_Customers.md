@@ -35,6 +35,11 @@ In this task, you will create three leads, one without company information and t
 1.  Enter **[my prefix] Another Lead** for **Title**, **Jack** for **First Name**, **Smith** for **Last Name,** **Test Inc**. for **Company**, and click **Save**.
 
 <!--Add instruction here for delegates to create leads utilizing other fields on the form.-->
+### Task 2 – Create additional Leads
+
+1. Create a couple additional leads making use of the other fields on the form.
+
+1. Add **Stakeholders** and **Competitors** to the leads.
 
 ## Exercise 2 – Lead Qualifications
 
