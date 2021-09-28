@@ -115,7 +115,7 @@ In this task, you will create a price list for the speakers.
 
 ### Task 4 – Create Products
 
-In this task, you will create products.
+In this task, you will create and publish products. First, you will create the HiFi product.
 
 1. Click on the **App Settings** button.
 
@@ -153,7 +153,9 @@ In this task, you will create products.
 1. Click **Publish**.
 
 1. Click **Confirm** to publish.
-
+    ```
+    Create the Power Supply product.
+    ```
 1. In the left menu, select **Products** in the Collateral group.
 
 1. Click **Add Product**.
@@ -183,7 +185,9 @@ In this task, you will create products.
 1. Click **Publish**.
 
 1. Click **Confirm** to publish.
-
+    ```
+    Create the Comm System product.
+    ```
 1. Select **Products** from the left menu.
 
 1. Click **Add Product**.
