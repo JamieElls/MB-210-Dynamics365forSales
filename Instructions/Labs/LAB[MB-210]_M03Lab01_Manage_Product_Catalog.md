@@ -148,7 +148,7 @@ In this task, you will create products.
      
     1. and select the **Pricing Information** tab.
 
-    1. Enter **150** for Amount and click **Save and Close**.
+    1. Enter **150** for **Amount** and click **Save and Close**.
 
 1. Click **Publish**.
 
@@ -178,7 +178,7 @@ In this task, you will create products.
 
     1. and select the **Pricing Information** tab.
 
-    1. Enter **120** for Amount and click **Save and Close**.
+    1. Enter **120** for **Amount** and click **Save and Close**.
 
 1. Click **Publish**.
 
@@ -208,7 +208,7 @@ In this task, you will create products.
     
     1. and select the **Pricing Information** tab.
 
-    1. Enter **2500** for Amount and click **Save and Close**.
+    1. Enter **2500** for **Amount** and click **Save and Close**.
 
 1. Click **Publish** to publish the product.
 
@@ -216,4 +216,19 @@ In this task, you will create products.
 
 1. From the left menu, select **Products**.
 
-1. The products you created should show up on the **All Products, Families & Bundles** view. You can switch to this view using the carrot by the default view title. You can use the search bar to search for your prefix to find your products.
+The products you created should be visible on the **All Products, Families & Bundles** view. You can switch to this view using the carrot by the default view title. 
+<br><br>
+    <img
+        alt="Discounts" 
+        hspace="40px" 
+        height="300" 
+        src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/AllProdBundFamViewSwitch.png"
+    ><br><br>
+You can use the search bar to search for your prefix to find your products.
+<br><br>
+    <img
+        alt="Discounts" 
+        hspace="40px" 
+        height="80" 
+        src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/ProdPrefixSearch.PNG"
+    >
