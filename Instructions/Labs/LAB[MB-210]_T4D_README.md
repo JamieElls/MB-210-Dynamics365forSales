@@ -17,3 +17,13 @@ This is an image of the woods:
 ### This is a mountain
 
 ![Image of mountains](https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_T4D_README/mountain-landscape.jpg)
+
+## this is a demo image using html tags
+
+<br>
+    <img
+        alt="Created Unit Group Units" 
+        hspace="40px" 
+        height="500" 
+        src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog/DEmo.PNG"
+    >
