@@ -16,28 +16,44 @@ World Wide Importers (WWI) is looking to formalize their sales process and addre
 
 In this task, you will create three leads, one without company information and two with company information.
 
-1.  Go to your **Dynamics 365 Sales Hub** application.
+1. Go to your **Dynamics 365 Sales Hub** application.
 
 1. Navigate to the left menu and explore the options available.
 
 1. Select **Leads** from the **Sales** section of the left menu.
 
-1.  Click **+ New**.
+1. Click **+ New**.
 
-1.  Enter **[my prefix] Lead Without Company** for **Topic**, **Jane** for **First Name**, **Doe** for **Last Name**, and click **Save**.
+1. Enter **[my prefix] Lead Without Company** for **Topic**, 
 
-1.  Click **+ New** again.
+    1. **Jane** for **First Name**, 
+    
+    1. **Doe** for **Last Name**, and click **Save**.
 
-1.  Enter **[my prefix] Lead with Company** for **Title**, **Jon** for **First Name, Doe** for **Last Name**, **Doe Inc.** for **Company**, and click **Save**.
+1. Click **+ New** again.
 
-1.  Click **+ New** one more time.
+1. Enter **[my prefix] Lead with Company** for **Title**, 
 
-1.  Enter **[my prefix] Another Lead** for **Title**, **Jack** for **First Name**, **Smith** for **Last Name,** **Test Inc**. for **Company**, and click **Save**.
+    1. **Jon** for **First Name**,
+    
+    1. **Doe** for **Last Name**, 
+    
+    1. **Doe Inc.** for **Company**, and click **Save**.
+
+1. Click **+ New** one more time.
+
+1. Enter **[my prefix] Another Lead** for **Title**, 
+
+    1. **Jack** for **First Name**, 
+
+    1. **Smith** for **Last Name,** 
+
+    1. **Test Inc**. for **Company**, and click **Save**.
 
 <!--Add instruction here for delegates to create leads utilizing other fields on the form.-->
 ### Task 2 – Create Additional Leads
 
-1. Create a couple additional leads making use of the other fields on the form.
+1. Create a couple of additional leads, making use of the other fields on the form.
 
 1. Add **Stakeholders** and **Competitors** to the leads.
 
@@ -49,7 +65,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 1.  From the sitemap, select **Leads**.
 
-1.  Locate **Lead Without Company** and select it.
+1.  Locate **[my prefix] Lead Without Company** and select it.
 
 1.  Click **Qualify** from the top menu.
 
@@ -66,7 +82,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 1.  From the sitemap, select **Leads**.
 
-1.  Locate **Lead with Company** and open it.
+1.  Locate **[my prefix] Lead with Company** and open it.
 
 1.  Click **Qualify** from the top menu.
 
@@ -80,7 +96,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 1.  Again, return to the **Leads** view.
 
-1.  Locate **Another Lead** and open it.
+1.  Locate **[my prefix] Another Lead** and open it.
 
 1.  Click **Disqualify** and select **No Longer Interested**.
 
@@ -92,7 +108,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 1.  The Lead you disqualified is no longer in the **My Open Leads** view. Change the View to **Closed Leads**.
 
-1.  Locate **Another Lead** and open it. (Ensure the lead has your prefix.)
+1.  Locate **[my prefix] Another Lead** and open it.
 
 1.  Click **Reactivate Lead**.
 

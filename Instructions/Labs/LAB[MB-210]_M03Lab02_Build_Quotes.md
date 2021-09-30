@@ -19,13 +19,15 @@ opportunity and create a quote from that opportunity.
 
 In this task, you will create an Opportunity and add Products Line Items.
 
-1. Go to your **Dynamics 365 Sales Hub** application.
-
-1. From the left menu, select **Opportunities**.
+1. From the sitemap, select **Opportunities**.
 
 1. Click **+ New**.
 
-1. Enter **[my prefix] Interested in Top D. System** for **Topic**, select **Jon Doe** for **Contact**, select **Doe Inc.** for **Account** and click **Save**.
+1. Enter **[my prefix] Interested in Top D. System** for **Topic**, 
+
+    1. select **Jon Doe** for **Contact**, 
+    
+    1. select **Doe Inc.** for **Account** and click **Save**.
 
 1. Select the **Products** tab.
 
