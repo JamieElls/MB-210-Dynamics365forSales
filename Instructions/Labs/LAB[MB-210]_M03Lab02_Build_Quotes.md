@@ -29,15 +29,25 @@ In this task, you will create an Opportunity and add Products Line Items.
     
     1. select **Doe Inc.** for **Account** and click **Save**.
 
-1. Select the **Products** tab.
+1. Select the **Product Line Items** tab.
 
-1. You must select a **Price List** before you can add Opportunity Products. Select **[my prefix] Top D. Electronics** for **Price List**.
+1. You must select a **Price List** before you can add Products. Select **[my prefix] Top D. Electronics** for **Price List**.
 
 1. Select **System Calculated** for **Revenue**.
 
-1. Above the subgrid, click **+ Add Product.**
+1. In the top-right corner of the products subgrid, click **+ Add Product**.
 
-1. Select **[my prefix] DX Power Supply** for **Existing Product**, enter **2** for **Quantity**, and click **Save & close**.
+    <!-- add image of add product button  -->
+
+1. Select **[my prefix] DX Power Supply** for **Existing Product**, 
+ 
+    1. enter **2** for **Quantity**, 
+
+    1. click **Save**.
+
+    1. Before you navigate away; note the **Pricing** switch will allow you to override the pricing defined by the product catalog. We will continue to **Use Default** pricing for this example.
+
+    1. Click **Save & Close**.
 
 1. Click **+ Add Product** again. Select **[my prefix] Top D. Comm System** for **Existing Product**, enter **1** for **Quantity** and click **Save & close**.
 
