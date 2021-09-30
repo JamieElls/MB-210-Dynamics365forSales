@@ -56,16 +56,16 @@ In this task, you will create three leads, one without company information and t
 1. Create a couple of additional leads, making use of the other fields on the form.
 
 1. Add **Stakeholders** and **Competitors** to the leads.
-<!--add images here-->
+
 1. Complete the steps in the **Qualify** stage of the **Lead to Opportunity** Business Process Flow.
     <br><br>
         <img 
             alt="Site Map Switch"
             hspace="40px" 
-            height="150" 
+            height="500" 
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_Manage_Customers/ExampleQualifyStageBPF.PNG"
         >
-        
+
 ## Exercise 2 – Lead Qualifications
 
 In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
