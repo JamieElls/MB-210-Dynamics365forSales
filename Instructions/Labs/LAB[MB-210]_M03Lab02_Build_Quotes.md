@@ -49,9 +49,9 @@ In this task, you will create an Opportunity and add Products Line Items.
 
     1. Click **Save & Close**.
 
-1. Click **+ Add Product** again. Select **[my prefix] Top D. Comm System** for **Existing Product**, enter **1** for **Quantity** and click **Save & close**.
+1. Click **+ Add Product** again. Select **[my prefix] Top D. Comm System** for **Existing Product**, leave **Quantity** at **1** and click **Save & close**.
 
-1. Click **+ Add Product** again. Select **[my prefix] Top D. HiFi** for **Existing Product**, enter **1** for **Quantity** and click **Save & close**.
+1. Click **+ Add Product** again. Select **[my prefix] Top D. HiFi** for **Existing Product**, leave **Quantity** at **1** and click **Save & close**.
 
 1. You will have three products in the sub-grid. Double click on the **[my prefix] Top D. HiFi** product.
 
@@ -60,6 +60,22 @@ In this task, you will create an Opportunity and add Products Line Items.
 1. Change the **Quantity** to **4** and click out of the field. The Discount will now kick in and the Volume Discount field will show the discounted value.
 
 1. Click **Save and Close**.
+
+1. Click **+ Add Product**
+
+1. Click the **Select Product** switch to set it to **Write-In** 
+
+    **Note**: you can use a Write-In Product to create 'one-offs' (*ad hoc* products) that don't exist in the product catalog. fir the exercise we will use the Write-In Product to create an *ad hoc* flat discount.
+
+1. Type **Gratis Flat Discount** in the **Write-In Product** field 
+
+1. Set **Price Per Unit** to **0**
+
+1. Set **Manual discount** to **50**
+
+    **Note**: consider you could also apply a flat discount by setting the **Price Per Unit** field to a negative value.
+
+1. Click **Save & Close**
 
 ### Task 2 – Create Quote
 
