@@ -36,8 +36,13 @@ In this task, you will create an Opportunity and add Products Line Items.
 1. Select **System Calculated** for **Revenue**.
 
 1. In the top-right corner of the products subgrid, click **+ Add Product**.
-
-    <!-- add image of add product button  -->
+    <br><br>
+            <img 
+                alt="Site Map Switch"
+                hspace="40px" 
+                height="350" 
+                src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab02_Build_Quotes/AddProductButton.PNG"
+            >
 
 1. Select **[my prefix] DX Power Supply** for **Existing Product**, 
  
@@ -46,6 +51,13 @@ In this task, you will create an Opportunity and add Products Line Items.
     1. click **Save**.
 
     1. Before you navigate away; note the **Pricing** switch will allow you to override the pricing defined by the product catalog. We will continue to **Use Default** pricing for this example.
+        <br><br>
+            <img 
+                alt="Site Map Switch"
+                hspace="40px" 
+                height="200" 
+                src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab02_Build_Quotes/OverridePricingSwitch.PNG"
+            >
 
     1. Click **Save & Close**.
 
@@ -64,6 +76,13 @@ In this task, you will create an Opportunity and add Products Line Items.
 1. Click **+ Add Product**
 
 1. Click the **Select Product** switch to set it to **Write-In** 
+    <br><br>
+        <img 
+            alt="Site Map Switch"
+            hspace="40px" 
+            height="200" 
+            src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab02_Build_Quotes/WriteInProductSwitch.PNG"
+        >
 
     **Note**: you can use a Write-In Product to create 'one-offs' (*ad hoc* products) that don't exist in the product catalog. fir the exercise we will use the Write-In Product to create an *ad hoc* flat discount.
 
