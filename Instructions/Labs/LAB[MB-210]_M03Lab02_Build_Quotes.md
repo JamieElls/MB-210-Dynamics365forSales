@@ -41,7 +41,7 @@ In this task, you will create an Opportunity and add Products Line Items.
                 alt="Site Map Switch"
                 hspace="40px" 
                 height="350" 
-                src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab02_Build_Quotes/AddProductButton.PNG"
+                src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab02_Build_Quotes/AddProductButtonEmptyGrid.PNG"
             >
 
 1. Select **[my prefix] DX Power Supply** for **Existing Product**, 
@@ -50,7 +50,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 
     1. click **Save**.
 
-    1. Before you navigate away; note the **Pricing** switch will allow you to override the pricing defined by the product catalog. We will continue to **Use Default** pricing for this example.
+    **Note:** the **Pricing** switch will allow you to override the pricing defined by the product catalog. We will continue to **Use Default** pricing for this example.
         <br><br>
             <img 
                 alt="Site Map Switch"
@@ -69,7 +69,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 
 1. Locate the **Volume Discount** field. You will find that there is no discount for buying one Speaker.
 
-1. Change the **Quantity** to **4** and click out of the field. The Discount will now kick in and the Volume Discount field will show the discounted value.
+1. Change the **Quantity** to **4** and deselect the field. The discount will now kick in and the **Volume Discount** field will show the discounted value.
 
 1. Click **Save and Close**.
 
@@ -84,7 +84,7 @@ In this task, you will create an Opportunity and add Products Line Items.
             src="https://raw.githubusercontent.com/JamieElls/MB-210-Dynamics365forSales/jamie-testing/Allfiles/Resources/LAB%5BMB-210%5D_M03Lab02_Build_Quotes/WriteInProductSwitch.PNG"
         >
 
-    **Note**: you can use a Write-In Product to create 'one-offs' (*ad hoc* products) that don't exist in the product catalog. fir the exercise we will use the Write-In Product to create an *ad hoc* flat discount.
+    **Note**: you can use a Write-In Product to create 'one-offs' (*ad hoc* products) that don't exist in the product catalog. For this exercise we will use the Write-In Product to create an *ad hoc* flat discount.
 
 1. Type **Gratis Flat Discount** in the **Write-In Product** field 
 
@@ -96,25 +96,35 @@ In this task, you will create an Opportunity and add Products Line Items.
 
 1. Click **Save & Close**
 
+1. Return to the **Summary** tab. Complete some of the other fields on the form such as; **Purchase Timeframe**, **Budget Amount**, **Purchase Process**, etc. 
+
+1. Click **Save**.
+
 ### Task 2 – Create Quote
+
+<!-- HERE is where i am -->
 
 In this task, you will create a Quote from the Opportunity you created in Task
 
-1. Go to your **Dynamics 365 Sales Hub** application.
-
-1. Open the Opportunity you created in Task 1. It will be called **[my prefix] Interested in Top D. System.**
-
-1. Select the **Quotes** tab.
+1. Navigate to the **Quotes** tab of the opportunity form.
 
 1. Click **+ New Quote**.
 
 1. The Quote form will open, and relevant information will be copied from the Opportunity.
 
-1. Select the **Quote Lines** tab. Examine the **Products** sub-grid and make sure products and their quantities look as you expected. You can change the quantities and discount the price of each line item.
+1. In the header, set the **Effective From** field to today's date.
+
+1. Set the **Effective To** field to two week from today's date.
+
+1. Examine the **Products** sub-grid and make sure the products and their quantities are as you expect. You can change the quantities and discount the price of each line item.
 
 1. Click **Activate Quote**.
 
-1. Click **Export to PDF** located on the command bar and select **Print Quote for Customer**. Click **Download.**
+1. Click **Export to PDF** located on the command bar. 
+ 
+1. Review the templates and then select **Print Quote for Customer**. 
+
+1. Click **Download.**
 
 1. Open the generated document and see what the Quote looks like.
 

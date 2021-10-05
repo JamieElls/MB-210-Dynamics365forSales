@@ -17,17 +17,15 @@ quote and create an invoice from that order.
 
 ### Task 1 – Create Order
 
-In this task, you will create an Orders from a Quote.
-
-1. Go to your **Dynamics 365 Sales Hub** application.
+In this task, you will create an Order from the Quote you created in the last lab.
 
 1. In the left menu, select **Quotes.**
 
 1. Open the **Quote** you created titled **[my prefix] Interested in Top D. System**.
 
-1. Click **Create Order**.
+1. From the command-bar, click **Create Order** .
 
-1. Leave everything as default and click **OK**.
+1. We will create the order using the default values, but take the time to review the available options in the **Create Order** dialogue box. When you are ready, click **OK**.
 
 1. The **Order** form will open. You can edit the **Order** information.
 
@@ -53,6 +51,19 @@ In this task, you will create an Invoice.
 
 1. Open the generated Word doc and review the **Invoice**. Close the Invoice Summary.
 
-1. We will assume the Customer paid in full. Click **Invoice Paid**.
+1. We will assume the customer paid in full. Click **Invoice Paid**.
 
-1. Select **Complete** and click **OK**.
+1. Click **OK**.
+
+### Task 3 – Review Won Opportunity 
+
+You have now completed the sales cycle and will review the originating opportunity. 
+
+1. In the sitemap click **Opportunities**.
+
+1. Switch to the **Closed Opportunities** view. Note the **Actual Revenue** and **Actual Close Date**. 
+
+1. Open the Won Opportunity.
+
+1. Take note of the automatic interaction that has taken place on the timeline. 
+
